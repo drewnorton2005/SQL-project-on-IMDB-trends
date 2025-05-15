@@ -1,1 +1,1 @@
-In this project I used SQL to analyze trends within IMDB rated movies. I attempted to look at any trends associated with highly rated movies.
+In this project I used SQL to analyze trends within IMDB rated movies. I attempted to look at any trends associated with highly rated movies. The file named Project 2 shows the code and the file named Project 2 Task 2 shows the description.
